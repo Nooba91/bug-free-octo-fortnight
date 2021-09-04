@@ -1,0 +1,31 @@
+.dasdaad{
+    font-size: xx-large;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+    font-family: 'Palette Mosaic', cursive !important;
+}
+
+.heading_div{
+    float: none;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px grey;
+    font-size: large;
+}
+.hederfgvb{
+    font-size: 18px;
+    font-family: 'Architects Daughter', cursive !important;
+}
+
+p{
+    box-shadow: 5px 5px 5px khaki;
+}
+canvas{
+    border:5px inset gold;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 150px;
+}
